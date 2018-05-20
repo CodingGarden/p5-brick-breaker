@@ -1,0 +1,15 @@
+{
+  "name": "brick-breaker",
+  "version": "1.0.0",
+  "description": "* [x] Create index.html * [x] Add p5.js * [ ] Set up basic p5 sketch * [ ] Display score * [ ] Get a paddle on the screen * [ ] Move the paddle with the keyboard keys * [ ] Get a ball on the screen * [ ] Launch the ball when the game starts * [ ] Bounce ball off of edges * [ ] Bounce ball off paddle * [ ] Create 1 row of bricks * [ ] Ball bounces off brick   * [ ] Brick is destroyed   * [ ] Score increases by 1 * [ ] Game is over when all bricks are destroyed * [ ] Game over when ball is dropped",
+  "main": "brick-breaker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-p5js": "^1.0.1"
+  }
+}
