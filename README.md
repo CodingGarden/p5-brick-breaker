@@ -1,5 +1,7 @@
 # Brick Breaker Game with p5.js
 
+Play the game here: https://brick-breaker.now.sh/
+
 * [x] Create index.html
 * [x] Add p5.js
 * [x] Set up basic p5 sketch
